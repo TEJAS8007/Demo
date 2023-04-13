@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30388" started-at="2023-04-13T10:23:43 IST" finished-at="2023-04-13T10:24:14 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30388" started-at="2023-04-13T10:23:43 IST" finished-at="2023-04-13T10:24:14 IST">
+      <class name="Demo.DemoWebShop2">
+        <test-method status="PASS" signature="browser()[pri:0, instance:Demo.DemoWebShop2@13eb8acf]" name="browser" is-config="true" duration-ms="4217" started-at="2023-04-13T10:23:39 IST" finished-at="2023-04-13T10:23:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="getUrl()[pri:0, instance:Demo.DemoWebShop2@13eb8acf]" name="getUrl" is-config="true" duration-ms="3140" started-at="2023-04-13T10:23:43 IST" finished-at="2023-04-13T10:23:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUrl -->
+        <test-method status="PASS" signature="maximize()[pri:0, instance:Demo.DemoWebShop2@13eb8acf]" name="maximize" is-config="true" duration-ms="218" started-at="2023-04-13T10:23:46 IST" finished-at="2023-04-13T10:23:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maximize -->
+        <test-method status="PASS" signature="login()[pri:1, instance:Demo.DemoWebShop2@13eb8acf]" name="login" duration-ms="2258" started-at="2023-04-13T10:23:47 IST" finished-at="2023-04-13T10:23:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="getScreen()[pri:0, instance:Demo.DemoWebShop2@13eb8acf]" name="getScreen" is-config="true" duration-ms="447" started-at="2023-04-13T10:23:49 IST" finished-at="2023-04-13T10:23:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getScreen -->
+        <test-method status="PASS" signature="purchaseBook()[pri:2, instance:Demo.DemoWebShop2@13eb8acf]" name="purchaseBook" duration-ms="23910" started-at="2023-04-13T10:23:49 IST" finished-at="2023-04-13T10:24:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- purchaseBook -->
+        <test-method status="PASS" signature="getScreen()[pri:0, instance:Demo.DemoWebShop2@13eb8acf]" name="getScreen" is-config="true" duration-ms="289" started-at="2023-04-13T10:24:13 IST" finished-at="2023-04-13T10:24:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getScreen -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Demo.DemoWebShop2@13eb8acf]" name="close" is-config="true" duration-ms="595" started-at="2023-04-13T10:24:14 IST" finished-at="2023-04-13T10:24:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Demo.DemoWebShop2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
