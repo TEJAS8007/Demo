@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19392" started-at="2023-04-13T14:37:47 IST" finished-at="2023-04-13T14:38:06 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19392" started-at="2023-04-13T14:37:47 IST" finished-at="2023-04-13T14:38:06 IST">
+      <class name="New.DemoSeleniun">
+        <test-method status="PASS" signature="browser()[pri:0, instance:New.DemoSeleniun@27f723]" name="browser" is-config="true" duration-ms="3090" started-at="2023-04-13T14:37:44 IST" finished-at="2023-04-13T14:37:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="url()[pri:0, instance:New.DemoSeleniun@27f723]" name="url" is-config="true" duration-ms="6856" started-at="2023-04-13T14:37:47 IST" finished-at="2023-04-13T14:37:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+        <test-method status="PASS" signature="maximize()[pri:0, instance:New.DemoSeleniun@27f723]" name="maximize" is-config="true" duration-ms="181" started-at="2023-04-13T14:37:54 IST" finished-at="2023-04-13T14:37:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maximize -->
+        <test-method status="PASS" signature="login(java.lang.String,java.lang.String)[pri:0, instance:New.DemoSeleniun@27f723]" name="login" duration-ms="4272" started-at="2023-04-13T14:37:54 IST" data-provider="getData" finished-at="2023-04-13T14:37:58 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[QQQQ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qqqq]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login(java.lang.String,java.lang.String)[pri:0, instance:New.DemoSeleniun@27f723]" name="login" duration-ms="7996" started-at="2023-04-13T14:37:58 IST" data-provider="getData" finished-at="2023-04-13T14:38:06 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AAAA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[aaaa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="close()[pri:0, instance:New.DemoSeleniun@27f723]" name="close" is-config="true" duration-ms="313" started-at="2023-04-13T14:38:06 IST" finished-at="2023-04-13T14:38:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- New.DemoSeleniun -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
