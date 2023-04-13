@@ -65,12 +65,15 @@ public class DemoSeleniun {
 	@DataProvider
 	public Object[][] getData()
 	{
-      	Object[][] obj=new Object[2][2];
+      	Object[][] obj=new Object[3][2];
       	  obj[0][0]="QQQQ";
       	  obj[0][1]="qqqq";
       	  
       	  obj[1][0]="AAAA";
      	  obj[1][1]="aaaa";
+		
+	 obj[2][0]="BBBB";
+     	  obj[2][1]="bbbb";	
      	  
 		return obj;
 		
